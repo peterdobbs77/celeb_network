@@ -8,3 +8,4 @@ There's a variety of roles that actors can have in these franchises. From leadin
 # See also
 
 * https://www.oracleofbacon.org/
+* https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project
